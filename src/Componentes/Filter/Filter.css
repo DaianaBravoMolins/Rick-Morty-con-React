@@ -1,0 +1,22 @@
+#filtro{
+    border-radius: 5px;
+    width: 160px;
+    height: 40px;
+    background-color:#344d67;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    align-self: 79px;
+    position:relative;
+    z-index: 0;
+    font-size: 13px;
+} 
+
+#obalo{
+    color:  #6eccaf;
+    margin-top: 0px;
+    margin-left: 5px;
+}
+
+
+

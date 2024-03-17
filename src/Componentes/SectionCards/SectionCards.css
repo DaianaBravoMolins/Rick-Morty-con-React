@@ -1,0 +1,15 @@
+#mensajeNoCharacters{
+    margin-top: 45px;
+    padding-left: 10px;
+    height: 60px;
+    width: 1275px;
+    margin-left: 35px;
+    background-color: #6ecca6;
+    color:#344d67;
+    display: flex;
+}
+#mensajeWarning{
+    padding-left: 10px;
+    padding-top: 1px;
+}
+ 

@@ -1,0 +1,82 @@
+main{
+    margin-left: 172px; 
+    bottom: 0%;
+    position: relative;
+    z-index: 0;
+} 
+
+#contenedor{ 
+    height: 450px;
+    margin-top: 50px;
+    float: left;  
+    margin-right: 15px;
+    background-color: #223142;
+    padding:8px;
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 30px;
+    
+   
+} 
+#carta{
+    width: 300px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}   
+#tituloPersonaje{
+    color:#6eccaf;
+    margin-top: 25px;
+    font-size: 32px; 
+    display: flex;
+    height: 40px;
+    justify-content: center; 
+}
+
+#botonKnowMore{
+    background-color:  #6eccaf;
+    margin-left: 180px; 
+    font-size: 13px;     
+    border-radius: 5px;
+    text-align: start; 
+    width: 120px;
+    border-style: none;
+    height: 30px;
+    margin-top: 35px;
+} 
+
+#x{
+    margin-left: 290px;
+    color:#223142;
+    background-color: #6eccaf;
+    border: none;
+    border-radius: 5px;
+    height: 35px;
+    width: 30px;
+}
+
+.list-group-item{
+   font-size: 19px;
+   padding-top: 10px;
+   width: 300px;
+   color:white;
+   background-color: #223142;
+   border: none;
+   display: block;
+   padding-left: 25px; 
+   margin-left: 35px; 
+   margin-top: 5px;
+}
+
+span{       
+    display: block;
+}
+ul :hover{
+    background-color: #6eccaf;
+    color:#223142;
+}

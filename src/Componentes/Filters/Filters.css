@@ -1,0 +1,45 @@
+#filtros{
+    font-size: 35px;
+    color: #344d67;
+    margin-top:42px;
+    text-align: start;
+    padding-left: 20px;
+}
+
+#diferentesFiltros{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left:5px;
+    margin-right: 5px;
+}
+#diferentesFiltros :checked{
+    background-color:rgb(27, 27, 61);
+}
+
+#Alive{
+    background-color: #6ecca6;
+    border-color: #6ecca6;
+    filter: brightness(155%) ;
+}
+
+#Dead{
+    background-color: #6ecca6;
+    border-color: #6ecca6;
+    filter: brightness(155%) ;
+}
+#Female{
+    background-color: #6ecca6;
+    border-color: #6ecca6;
+    filter: brightness(155%) ;
+}
+#Male{
+    background-color: #6ecca6;
+    border-color: #6ecca6;
+    filter: brightness(155%) ;
+}
+#Unknown{
+    background-color: #6ecca6;
+    border-color: #6ecca6;
+    filter: brightness(155%) ;
+}
